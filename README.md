@@ -1,4 +1,6 @@
+
 WARNING: This list may update every three years, so the latest is DPP 2026
+
 2026: 8,300,678,395 people (0.84% growth, net change: +69,065,325, density: 56 P/Km²)
 
 2027: 8,369,094,344 people (0.82% growth, net change: +68,415,949, density: 56 P/Km²)
